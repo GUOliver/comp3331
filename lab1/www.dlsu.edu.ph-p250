@@ -1,0 +1,8 @@
+PING www.dlsu.edu.ph (103.231.241.180) 222(250) bytes of data.
+230 bytes from museum.dlsu.edu.ph (103.231.241.180): icmp_req=1 ttl=114 time=344 ms
+230 bytes from museum.dlsu.edu.ph (103.231.241.180): icmp_req=2 ttl=114 time=344 ms
+230 bytes from museum.dlsu.edu.ph (103.231.241.180): icmp_req=3 ttl=114 time=344 ms
+
+--- www.dlsu.edu.ph ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 344.633/344.693/344.758/0.679 ms
